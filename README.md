@@ -10,4 +10,4 @@ The languages/tools I am comfortable with are:
 - Google Dart/Flutter 
 - Figma (Design) & Blender (3D Rendering) 
 
-If you want to reach out to me or collaborate, please reach out to me at shaurya.sarma@gmail.com :)
+If you want to reach out to me or collaborate, please message me at shaurya.sarma@gmail.com :)
